@@ -68,7 +68,7 @@ if(k==true){
         fight();
     }
 }else{
-    console.log("run")
+    console.log("run away")
 }
 
 
